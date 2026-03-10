@@ -2,7 +2,7 @@
 
 iOS Developer from Indonesia. I build user-centered apps with Swift & SwiftUI — focused on clean architecture, accessibility, and experiences that feel native and intuitive. I also have a fullstack web background, so I'm comfortable on both sides of an API. I thrive in collaborative, cross-functional teams where different perspectives lead to better products.
 
-Previously at **Apple Developer Academy @BINUS Bali Cohort 2025** · Fullstack at **Purwadhika**
+Previously at **Apple Developer Academy @BINUS - Bali Cohort 2025** · Fullstack at **Purwadhika**
 
 ---
 
