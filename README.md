@@ -13,7 +13,7 @@ Previously at **Apple Developer Academy @BINUS - Bali Cohort 2025** · Fullstack
 | Project | Type | Stack |
 |---|---|---|
 | [**Clamby**](https://apps.apple.com/id/app/ai-wardrobe-stylist-clamby/id6755164488) — AI wardrobe styler | iOS · Team | SwiftUI · VisionKit · Combine · Go + Supabase |
-| [**Budu**](https://github.com/ghifarij/Budu) — Personal budget tracker | iOS · Solo | SwiftUI · Combine · MVVM |
+| [**Fuely**](https://github.com/ghifarij/Fuely) — Water, sleep score & workout goals with lock screen widgets | iOS · Solo | SwiftUI · HealthKit · WidgetKit · App Intents |
 | [**RekJobs**](https://rekjobs-fe.vercel.app) — Fullstack job board | Web · Solo | Next.js · Express.js · PostgreSQL · Prisma |
 | [**Desti Florist**](https://destiflorist.com) — Florist marketing site | Web · Freelance | Next.js |
 | [**LSK Pengantin**](https://lskpengantin.id) — Bridal arts certification org + CMS | Web · Freelance | Next.js · Sanity CMS |
